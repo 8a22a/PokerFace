@@ -1,4 +1,4 @@
-PokerTime
+PokerFace
 =========
 
 Pebble Watchface
