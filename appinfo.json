@@ -1,0 +1,35 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "73deb1b2-545b-40a6-a0f6-ead2595f1363",
+    "appKeys": {},
+    "longName": "Poker Face",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Poker Face",
+    "companyName": "8a22a",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/playingcards_menu_icon.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ARIAL_BOLD_12",
+                "file": "fonts/arialbd.ttf"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BACKGROUND",
+                "file": "images/playingcards_background.png"
+            }
+        ]
+    }
+}
